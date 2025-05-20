@@ -2,3 +2,4 @@ numpy
 spectral
 matplotlib
 numba
+scikit-learn
