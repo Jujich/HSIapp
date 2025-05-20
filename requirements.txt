@@ -1,0 +1,4 @@
+numpy
+spectral
+matplotlib
+numba
